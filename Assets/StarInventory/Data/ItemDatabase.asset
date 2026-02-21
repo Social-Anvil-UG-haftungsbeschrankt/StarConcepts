@@ -1,0 +1,540 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe237936c72890748bc5cadb9273dc8c, type: 3}
+  m_Name: ItemDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::ItemDatabase
+  items:
+  - itemId: Rocks_Prefab_0000
+    prefab: {fileID: 2583490727855631772, guid: bc5f360f6f260de48be6fbcff66de66d, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0000_V00 1
+    prefab: {fileID: 5664681865394572933, guid: e0463aaeb82a54e4e975cca49bfe6fe9, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0000_V00 2
+    prefab: {fileID: 217867755934656414, guid: 4cefba5f8bcbbce42a898b0fce825beb, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0000_V01 1
+    prefab: {fileID: 4192679773734210052, guid: 1a88c22cf18a26448a9a3fb9e201ae0d, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0000_V01 2
+    prefab: {fileID: 6792875245430928113, guid: 8a4542ff2c3400249a1e00b924fa5b98, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0001
+    prefab: {fileID: 8103937421505915678, guid: f58a3ee8947cd1142a0c383edab471eb, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0001_V00 1
+    prefab: {fileID: 1979720869557446355, guid: a727b78c0d88d334192cbbc230529ade, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0001_V00 2
+    prefab: {fileID: 708218562801916801, guid: e7e4e82d46c24c44a939763c78802765, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0001_V01 1
+    prefab: {fileID: 4927918641172114254, guid: 4fb0ac0d9c34f254d8cc18f4f9363883, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0001_V01 2
+    prefab: {fileID: 5065179301836335372, guid: 43250fff1c7dd7949987e146fb99fea8, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0002
+    prefab: {fileID: 265795038075071231, guid: bad5b43d624c2c14b9fb198d7c6c85c5, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0002_V00 1
+    prefab: {fileID: 7462389474882207484, guid: 94214c8b3c504b346ba0e93ba035ccdc, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0002_V00 2
+    prefab: {fileID: 6906421347676964024, guid: af1362bcb0de88d4b9907129a381588a, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0002_V01 1
+    prefab: {fileID: 2267696840237562548, guid: 99ac4ea9f56130e4e83e0f00710deae2, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0002_V01 2
+    prefab: {fileID: 1384862717610978549, guid: bbbb156401994fc428d70d5e1f81bb79, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0003
+    prefab: {fileID: 2973361636076792312, guid: f9033f7d93521df42ad93d8ff15f3581, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0003_V00 1
+    prefab: {fileID: 7606490364077969832, guid: bcd897ec6f075cf429d27cd20fdeac24, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0003_V00 2
+    prefab: {fileID: 386424882155971464, guid: 57710b30ed106fd44937255694666c2d, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0003_V01 1
+    prefab: {fileID: 3281449933166569175, guid: 10d0a7f0f7f51554abd69c27b6c9a947, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0003_V01 2
+    prefab: {fileID: 175667815251209741, guid: 5090fe7e4ed4d5e4abbaea029d14b6c9, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0004
+    prefab: {fileID: 5526313082419606208, guid: 0ab12ea958a1943439dd8599c777fdc5, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0004_V00 1
+    prefab: {fileID: 6559805565227776702, guid: e7e1b8a37d62cfb4ba4843de4ca44833, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0004_V00 2
+    prefab: {fileID: 5813358814930923719, guid: 5b807fcae4eb9244298c5f30f8b18be9, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0004_V01 1
+    prefab: {fileID: 742987786635946039, guid: a3445efa9b232914ba1843bca4faafe7, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0004_V01 2
+    prefab: {fileID: 767234946373729700, guid: 9906a23c4049aee4f850bd2692e1b121, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0005
+    prefab: {fileID: 7515849003818615379, guid: 3550ee63ffc8fa440a685385dae71e0b, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0005_V00 1
+    prefab: {fileID: 367258428762257982, guid: a68e87d2adc5ce549ab8f91dc54f2267, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0005_V00 2
+    prefab: {fileID: 5087351025230982141, guid: a54d43012d7b17f47ae4d97e087eb8ea, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0005_V01 1
+    prefab: {fileID: 2193764691802016083, guid: 86cd6b960921a9742a4fc22f86ca8120, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0005_V01 2
+    prefab: {fileID: 60781894666104836, guid: 0aa770c7e327ff64e871f47a0c8fb060, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0006
+    prefab: {fileID: 1308506959689445241, guid: 268989d2f17c6ea4aac58c6412a02fa9, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0006_V00 1
+    prefab: {fileID: 5666242244310853063, guid: 00df09cb0d50cba43987a3b922f151df, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0006_V00 2
+    prefab: {fileID: 7583945244830504062, guid: ebfcb7e391a745248a48fc34acdc4ea0, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0006_V01 1
+    prefab: {fileID: 5094673646259054621, guid: 795560da1ba817e4badccb75603577bb, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0006_V01 2
+    prefab: {fileID: 119774896166599938, guid: 7a2ca50e6827e8d47ad08320588ad44c, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0007
+    prefab: {fileID: 1464712457087367682, guid: 7e05edf2a2199704781fb899cdece74b, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0007_V00 1
+    prefab: {fileID: 6485029420607675094, guid: 46f6ba4af4d427d4294ed39e570495c8, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0007_V00 2
+    prefab: {fileID: 1421082488525162849, guid: adebfc1083f063f4e87d57025271d42a, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0007_V01 1
+    prefab: {fileID: 8077798854161376119, guid: 71e134ca127077e408b86c3d4b546e41, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0007_V01 2
+    prefab: {fileID: 389051379565337877, guid: 4aaf32cd9c3c4a341a33d393631c6806, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0008
+    prefab: {fileID: 2698908470773833305, guid: 37b3d0f03a8531c4bb0b78481e6e42e8, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0008_V00 1
+    prefab: {fileID: 3203725085667772765, guid: 28f81d6595e11a14f8a4f78a2da449af, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0008_V00 2
+    prefab: {fileID: 4928421246459939954, guid: 287cdd4b94dce614ca01689723782f40, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0008_V01 1
+    prefab: {fileID: 3372831867983145900, guid: c96a426b1f747314d8e4631f7aee9ab3, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0008_V01 2
+    prefab: {fileID: 6145390102764746093, guid: bc7a576ad460021449ae1f0d71e41508, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0009
+    prefab: {fileID: 5661863669054622938, guid: c8ed8c0c9c8784c48a8aa1aade4397c9, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0009_V00 1
+    prefab: {fileID: 7424256272237966073, guid: 2bcc04a147cdf0a459c4bb9f162076c2, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0009_V00 2
+    prefab: {fileID: 1776131615230375029, guid: e3161de8a7193f14d87c5717ed87dc9b, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0009_V01 1
+    prefab: {fileID: 1037566319248985212, guid: d085fa61ee132b043b282df6ab078666, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0009_V01 2
+    prefab: {fileID: 4850667940141660403, guid: a96ea32aed9e0484d9a82d93a38844e3, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0010
+    prefab: {fileID: 201160453463304022, guid: 39451a5a9c7cc61418d9728e4655edd9, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0010_V00 1
+    prefab: {fileID: 6211230456072390091, guid: d79a0589998d28b4fb0d34766f41ca61, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0010_V00 2
+    prefab: {fileID: 4479226632460017902, guid: 6cbd8e6cbbafc2448900a1d4eb8e3274, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0010_V01 1
+    prefab: {fileID: 900091424134257199, guid: d89929bbcbaa86843b845285d69bd84d, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0010_V01 2
+    prefab: {fileID: 8561535669543197063, guid: a34804aa53a7e264bb5441de9df68c05, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0011
+    prefab: {fileID: 4275832615103873816, guid: 668e9ee6dde977e40bf5931dbd980564, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0011_V00 1
+    prefab: {fileID: 2995527730021837050, guid: cf0cfc46d70403c4e99fc025cdb797bd, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0011_V00 2
+    prefab: {fileID: 2853273447341109589, guid: b3cbe5791ab24d0439cd68bce0af3a61, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0011_V01 1
+    prefab: {fileID: 1015890796416668682, guid: dcc4f7d082092634193e99b35f87a86f, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0011_V01 2
+    prefab: {fileID: 4884649571106272349, guid: da9bcc57ab213c84fa00faea6ba1bdd1, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0012
+    prefab: {fileID: 155043780860322132, guid: 1431136411a45ba48a7dad69cac94616, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0012_V00 1
+    prefab: {fileID: 8682405175630038271, guid: 2619e39fcb862ef4eacdca46b07fe37d, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0012_V00 2
+    prefab: {fileID: 8718709353552706133, guid: 04927ab440d8e0d44b1e81ba4440c02f, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0012_V01 1
+    prefab: {fileID: 5676617331529269638, guid: 53ce6c7114c3a494ba727bbbc9457152, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0012_V01 2
+    prefab: {fileID: 6552788533151995647, guid: 3ccd543e695b40c4887388a2f9e40042, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0013
+    prefab: {fileID: 2779557381398537460, guid: 655ce24d5bc713d4791f69e1bad41be1, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0013_V00 1
+    prefab: {fileID: 4834095444377511742, guid: fe1945e5054706042878e331747ea498, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0013_V00 2
+    prefab: {fileID: 783043397353621422, guid: 49902fe53081eec4fba915be064daa98, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0013_V01 1
+    prefab: {fileID: 5570880992226844413, guid: 7ca6e33372f9354439a3af070007178a, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0013_V01 2
+    prefab: {fileID: 4583281356367798417, guid: 9c6803d47950ebd4e8e5e0aec95a9dd7, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0014
+    prefab: {fileID: 944120337949158175, guid: f1c5b7ae4121a3349b09821469537deb, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0014_V00 1
+    prefab: {fileID: 6535525598594265890, guid: f373accf5ae927644892860bd0a418e5, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0014_V00 2
+    prefab: {fileID: 166611084167714955, guid: 0f12d860685954b4483a55be58eaad93, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0014_V01 1
+    prefab: {fileID: 7974900540415838031, guid: a4b9b162800ca5c418fef58d53ba4b53, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0014_V01 2
+    prefab: {fileID: 3101246120919443788, guid: b6350e956159adb48859b6db7acfcf6b, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0015
+    prefab: {fileID: 7002673514057735721, guid: 75d0c463586556745a8f2e028e986793, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0015_V00 1
+    prefab: {fileID: 8473507183015296966, guid: de4d8eedb823d9f46872e261ce794810, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0015_V00 2
+    prefab: {fileID: 2855755549056715525, guid: 53011bf3de48a6f4e92f385136a214b7, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0015_V01 1
+    prefab: {fileID: 2998515023599173092, guid: 3abe10b6edf83924995d779543d7fd24, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0015_V01 2
+    prefab: {fileID: 4636562236483994965, guid: dc2b09e4bea84a64481b022d91bb7269, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0016
+    prefab: {fileID: 490252919810814516, guid: 07b5c95674aca654a90910eea4a5e822, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0016_V00 1
+    prefab: {fileID: 8764564840736125685, guid: 1aa92708114760844b36db4ed9c852e6, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0016_V00 2
+    prefab: {fileID: 5987813381057744322, guid: 1f0bcddc8f087954295d557e149c73de, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0016_V01 1
+    prefab: {fileID: 4373409646879487142, guid: 12495d5381e4d194abdbf4e0ed6f91a5, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0016_V01 2
+    prefab: {fileID: 5086447519975472829, guid: 6dd9c2fd57f96b04ea5f07aba3eac1dd, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0017
+    prefab: {fileID: 4127130889605426845, guid: ced2f59d9ffbdc24492207212a932a42, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0017_V00 1
+    prefab: {fileID: 4683501728872126399, guid: d2c6d5ccf9b1fbb40a7a195501ab7cce, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0017_V00 2
+    prefab: {fileID: 3868269901510359836, guid: 8302e6385260d7b4aa7539f5c04ed880, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0017_V01 1
+    prefab: {fileID: 6668222126387520330, guid: 0a8f386c771f4ca43808e0f09b15edbe, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0017_V01 2
+    prefab: {fileID: 7524452109942465737, guid: 28277f9dc51bf5b4fad99f3cb736ca96, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0018
+    prefab: {fileID: 6627266459048483762, guid: 93ea1c92523c37c4bb98e197cae724f0, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0018_V00 1
+    prefab: {fileID: 2976048754608280504, guid: da2d71c7664aafa4eb9ba9f4a49a5d74, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0018_V00 2
+    prefab: {fileID: 8147257923950940888, guid: 6aef66596e13cb946bf2b8a117757a16, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0018_V01 1
+    prefab: {fileID: 2437410499278897478, guid: b4e9db3ae2009c44ebe0371231f51157, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0018_V01 2
+    prefab: {fileID: 2569906365192696615, guid: 439ff51741b047d41ac5c1d11f53ff8b, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0019
+    prefab: {fileID: 8164186871951666001, guid: 30e6553c7c10e58428ac442861edab90, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0019_V00 1
+    prefab: {fileID: 8865669126062992253, guid: a80ba8f0571151e4a98fc70ed835f044, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0019_V00 2
+    prefab: {fileID: 3393346821961727375, guid: 04d08ccc469a7d542ac796751ca92d8e, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0019_V01 1
+    prefab: {fileID: 7850530379490113527, guid: dc7fb5db7b10a024c946d5410270a5d3, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0019_V01 2
+    prefab: {fileID: 6202057754712905931, guid: 22609d89cc37e254f9f8416f98679df5, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0020
+    prefab: {fileID: 5670145405750993019, guid: 8157c6c184a47e84c9e91fa8f11755b7, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0020_V00 1
+    prefab: {fileID: 7158910614675506602, guid: f2bb1b62c14784842b8525c656846e80, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0020_V00 2
+    prefab: {fileID: 2288089978153757089, guid: 04a4acafdf3ff2e49aad4323621c476a, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0020_V01 1
+    prefab: {fileID: 1436175447140853122, guid: 6c23746a567f4b74c98f754f786d6341, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0020_V01 2
+    prefab: {fileID: 8171059777029111610, guid: 91ed9bbc2f2120e4cb8fdcce487375e8, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0021
+    prefab: {fileID: 5068435117188162691, guid: debd10452a886b04795c1875e3d25705, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0021_V00 1
+    prefab: {fileID: 4985216674523055827, guid: cd58cdae211d54a40b9f5f92cc3b1b01, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0021_V00 2
+    prefab: {fileID: 9006823545376126333, guid: dbad7ce61db512f4996c87ebaa5c2fbe, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0021_V01 1
+    prefab: {fileID: 7764810256954940599, guid: 5d1588f91779e33458b7725938693820, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0021_V01 2
+    prefab: {fileID: 7450642927579110861, guid: 7d12b14cf9c651a4eae706181fe70686, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0022
+    prefab: {fileID: 348784542947192897, guid: 8121d159f9331c949bccf47ee826012a, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0022_V00 1
+    prefab: {fileID: 5270308667900939487, guid: 698a1971ab1be8b48b117772fd55fb58, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0022_V00 2
+    prefab: {fileID: 2206310388322986030, guid: 90761f512c34e7e4ca0bb76c6a5efb05, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0022_V01 1
+    prefab: {fileID: 2746101607006913001, guid: 2a201754728e19b46ad8d2330cd77e06, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0022_V01 2
+    prefab: {fileID: 4248736164844884304, guid: 4caf81e34ec56334db8072a29b77306e, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0023
+    prefab: {fileID: 41994011882274797, guid: d6cc514d6f25ff44a94b615fc931c93c, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0023_V00 1
+    prefab: {fileID: 7836680878069029095, guid: c06d20d22be868f488164a157e4f0d6c, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0023_V00 2
+    prefab: {fileID: 6254408204885680754, guid: e38baab8acb172c42b65669cf2690c8e, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0023_V01 1
+    prefab: {fileID: 9013078298597892199, guid: a93c24cee0cbc734998865e148ff584d, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0023_V01 2
+    prefab: {fileID: 8083748781078222422, guid: 37d2712b1eb8fab4cb583832bc7345a6, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0024
+    prefab: {fileID: 8416580703104742319, guid: 6c77441c8519ee647a064f2b9f1fab20, type: 3}
+    variantIds:
+    - 00
+    - 01
+  - itemId: Rocks_Prefab_0024_V00 1
+    prefab: {fileID: 2739790609400730042, guid: da89e7a6ba56e5e46ae297cf66dcd97a, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0024_V00 2
+    prefab: {fileID: 1354171118118553626, guid: 55b8d6fa79bd0d44597392b5a8b5a585, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0024_V01 1
+    prefab: {fileID: 7138550121708910734, guid: d94ef6f3c93791b43b28b3a188714b4d, type: 3}
+    variantIds:
+    - default
+  - itemId: Rocks_Prefab_0024_V01 2
+    prefab: {fileID: 9203675100830023155, guid: 16ba2d8456ba05441be2b95c14ba5908, type: 3}
+    variantIds:
+    - default
