@@ -59,7 +59,7 @@ public sealed class InventoryDemoController : MonoBehaviour
     private void RefreshAll()
     {
         var svc = IconService.Instance;
-        if (modeLabel != null) modeLabel.text = svc.iconMode.ToString();
+        if (modeLabel != null) modeLabel.text = svc.iconMode == InventoryIconMode.Cached2D? InventoryIconMode.Realtime3D.ToString(): InventoryIconMode.Cached2D.ToString();
 
         for (int i = 0; i < views.Count; i++)
             views[i].Refresh();
